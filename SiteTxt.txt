@@ -1,0 +1,166 @@
+========== HEADER ==========
+.nav__logo
+Ngabonziza <span>Guy</span>
+
+.nav__link
+Home - About - Services - Projects - Contact
+
+
+========== HOME ==========
+.home__subtitle
+Hello, <span>I’m</span>
+
+.home__title
+Ngabonziza Guy
+
+.home__education
+Fullstack & Blockchain Developer
+
+.home__description
+With expertise in web development, blockchain technology, and UI/UX design, I deliver robust solutions that meet high-quality standards.
+
+.button
+Let's Discuss
+
+.home__social
+https://github.com/ngabonzizaguy
+https://dribbble.com/greyguy
+https://www.linkedin.com/in/guyguyhk1/
+
+.home__social-icon (clip-path)
+polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)
+
+
+========== ABOUT ==========
+.section__subtitle
+My <span>Introduction</span>
+
+.section__title
+About Me
+
+.about__description
+As a fullstack and blockchain developer, I specialize in building scalable web applications and decentralized solutions using cutting-edge technologies.
+
+.button
+Contact Me
+
+
+========== SKILLS ==========
+.section__subtitle
+Favorite <span>Skills</span>
+
+.section__title
+My Skills
+
+.skills__description
+Explore my diverse skill set, empowering me to innovate and deliver tailored solutions for your projects.
+
+.button
+See Projects
+
+.skills__item
+HTML & CSS
+JavaScript
+React
+Node.js
+
+Solidity
+Blockchain Development
+MongoDB
+Firebase
+
+
+========== SERVICES ==========
+.section__subtitle
+My <span>Services</span>
+
+.section__title
+What I Do
+
+.services__title .services__description
+Fullstack Development
+Crafting custom web applications and APIs with a focus on scalability and performance using modern frameworks.
+
+Blockchain Solutions
+Designing and developing decentralized applications (dApps) and smart contracts on various blockchain platforms.
+
+UI/UX Design
+Creating intuitive user interfaces and engaging user experiences using tools like Figma and Adobe XD.
+
+
+========== PROJECTS ==========
+.section__subtitle
+My <span>Projects</span>
+
+.section__title
+Recent Projects
+
+.projects__subtitle .projects__title .projects__button
+Web
+Modern Website
+View Demo
+
+
+========== CONTACT ==========
+.section__subtitle
+Get In <span>Touch</span>
+
+.section__title
+Contact Me
+
+.contact__input (placeholder)
+Enter your name
+Enter your email
+Enter your message
+
+.button (type="submit")
+Send Message
+
+
+========== EMAIL JS CONTACT ==========
+Before proceeding, I recommend creating your EmailJs account(https://www.emailjs.com/)
+
+// serviceID - templateID - #form - publicKey
+
+	// Show sent message
+
+		Message sent successfully
+
+	// Remove message after five seconds
+
+	// Clear input fields
+
+	// Show error message
+
+		Message not sent (service error)
+
+
+* Copy this code into your (Email Template)
+
+Names: {{user_name}}
+
+Email: {{user_email}}
+
+Project: {{user_project}}
+
+Best wishes,
+EmailJS team
+
+
+========== FOOTER ==========
+.footer__title
+Ngabonziza <span>Guy</span>
+
+.footer__education
+Fullstack & Blockchain Developer  
+
+.footer__social-link
+https://www.whatsap.com
+https://web.telegram.org/
+https://twitter.com/guyguyHK1/
+
+.footer__copy
+&#169; Copyright N.Guy. All rights reserved
+
+.footer__social-icon (clip-path)
+polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)
